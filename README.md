@@ -8,7 +8,6 @@ Este repositorio contiene un caso de estudio enfocado en la gestión operativa, 
 ## 📂 Estructura del Repositorio
 - **`generador_datos.py`**: Script en Python para la simulación y estructuración de la base de datos histórica.
 - **`datos_fisioterapia.csv`**: Dataset limpio utilizado para alimentar las métricas del dashboard.
-- **`Dashboard_Fisioterapia.pbix`**: Reporte interactivo en Power BI con los casos de estudio desarrollados.
 
 ---
 
